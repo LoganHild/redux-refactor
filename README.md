@@ -21,6 +21,10 @@
 
   ## Description
   This is a simple refactor of an existing ecommerce application to use Redux.
+  
+  ## Deployed App
+  
+  <https://ecommerce-with-redux.herokuapp.com/>
 
   ## Installation
   If cloning this repository use the <code>git clone</code> terminal command. Once cloned be sure to use <code>npm i</code> to install the necessary dependencies. After that is completed, enter <code>npm run seed</code> into the terminal to seed the database. After the database is seeded, use <code>npm run develop</code> to run the application in development mode on a local machine.
