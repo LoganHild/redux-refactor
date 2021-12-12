@@ -27,6 +27,9 @@
 
   ## Usage
   The user may sign up or log in if they have an existing account at the top of the page. Keep in mind that to check out, users will need to have a user account. Browse the products listed and add them to the cart. Once the user has everything they would like to purchase added to their cart, simply click the checkout button and followthe steps listed to make the purchase.
+  
+  ![2021-12-11](https://user-images.githubusercontent.com/82903685/145699388-303789a8-f261-44cc-aed1-26964df7948a.png)
+
 
   ## License
  
